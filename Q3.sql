@@ -1,0 +1,2 @@
+INSERT INTO category_id(1,2,3)
+VALUES('â∆ãÔ','êHïi','ñ{');
