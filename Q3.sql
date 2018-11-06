@@ -1,2 +1,3 @@
-INSERT INTO category_id(1,2,3)
-VALUES('家具','食品','本');
+INSERT INTO item_category VALUES(1,'家具');
+INSERT INTO item_category VALUES(2,'食品');
+INSERT INTO item_category VALUES(3,'本');
